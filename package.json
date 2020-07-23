@@ -1,0 +1,27 @@
+{
+  "name": "freecc",
+  "version": "1.0.0",
+  "description": "A Condition Compiler for HTML, Javascript and any text file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zivyuan/freecc.git"
+  },
+  "keywords": [
+    "Condition",
+    "Complier",
+    "Javascript",
+    "CSS",
+    "Complier",
+    "Condition"
+  ],
+  "author": "zivyuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zivyuan/freecc/issues"
+  },
+  "homepage": "https://github.com/zivyuan/freecc#readme"
+}

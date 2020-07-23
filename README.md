@@ -1,2 +1,2 @@
 # freecc
-Condition Compiler for HTML, Javascript and any code file used with npm
+A Condition Compiler for HTML, Javascript and any text file.
